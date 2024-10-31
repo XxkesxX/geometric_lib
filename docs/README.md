@@ -1,13 +1,13 @@
 # Описание решения
 
 1.	Клонирование репозитория и создание новой ветки.
-    ![rep_clone](..\images\clone_and_switch.png)
+    ![rep_clone](../images/clone_and_switch.png)
 
 2.	Добавление описаний для функций.
-    ![add_discription_circle](..\images\circle_description.png)
-    ![add_discription_square](..\images\square_description.png)
-    ![add_discription_triangle](..\images\triangle_description.png)
-    ![add_discription_rectangle](..\images\rectangle_description.png)
+    ![add_discription_circle](../images/circle_description.png)
+    ![add_discription_square](../images/square_description.png)
+    ![add_discription_triangle](../images/triangle_description.png)
+    ![add_discription_rectangle](../images/rectangle_description.png)
 
 3.	Commit изменений.
     ![commit](..\images\commit.png)
@@ -58,4 +58,4 @@
 
 # История изменений
 
-## ![graph](..\images\graph.png)
+## ![graph](../images/graph.png)
