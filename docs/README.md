@@ -10,7 +10,7 @@
     ![add_discription_rectangle](../images/rectangle_description.png)
 
 3.	Commit изменений.
-    ![commit](..\images\commit.png)
+    ![commit](../images/commit.png)
 
 
 # Описание функций
