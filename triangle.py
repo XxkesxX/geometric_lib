@@ -5,7 +5,3 @@ def area(a, h):
 def perimeter(a, b, c): 
     '''Принимает стороны треугольника и возвращает его периметр'''
     return a + b + c 
-
-
-print(f"При h = 10, a = 5 S = {area(5, 10)}")
-print(f"При a = 3, b = 4, c = 5 S = {perimeter(3, 4, 5)}")
