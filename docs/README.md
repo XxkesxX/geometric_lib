@@ -56,10 +56,15 @@
 Функция ***perimeter*** принимает на вход три значения - стороны треугольника и возвращает его периметр. Для вызова функции необходимо прописать **perimeter(a, b, c)**, где a, b, c - стороны треугольника. Для примера возьмем a = 2, b = 3, c = 4, тогда **perimeter(2, 3, 4)** вернет значение - 9.
 
 
-# История изменений
+# Unittest-ы
 
-- [Изменение файла README](https://github.com/KulEDmitr/geometric_lib/commit/380393b3f4d19a0063f0c6b33850f54ec164479a)
-- [Изменение функции circle](https://github.com/KulEDmitr/geometric_lib/commit/babd43a20df7316ae941d069f9716a1e516f653a)
-- [Изменение функции rectangle](https://github.com/KulEDmitr/geometric_lib/commit/3003b82e3aed346a2a32efa3a117ce2feeb7f12f)
-- [Изменение функции square](https://github.com/KulEDmitr/geometric_lib/commit/c20be777b00bcda79557b3430524f3bf42c3c123)
-- [Изменение функции triangle](https://github.com/KulEDmitr/geometric_lib/commit/ef46f50e83fe266c140b5e0637c82fa66a28cba1)
+Тесты написанны с помощью встроенной в python библиотеки **unittest**. Тесты проверяют функции на корректность ответов, а также на наличие исключений, таких как ValueError и TypeError. 
+
+
+# История изменений
+- [<d25860432d46e0580306b272047fe9d894547408> Добавлены unittest-ы](https://github.com/KulEDmitr/geometric_lib/commit/d25860432d46e0580306b272047fe9d894547408)
+- [<78c90f648e5ef31c0d6b8e897be3bc8f1647e51d> Изменение файла README](https://github.com/KulEDmitr/geometric_lib/commit/380393b3f4d19a0063f0c6b33850f54ec164479a)
+- [<babd43a20df7316ae941d069f9716a1e516f653a> Изменение функции circle](https://github.com/KulEDmitr/geometric_lib/commit/babd43a20df7316ae941d069f9716a1e516f653a)
+- [<3003b82e3aed346a2a32efa3a117ce2feeb7f12f> Изменение функции rectangle](https://github.com/KulEDmitr/geometric_lib/commit/3003b82e3aed346a2a32efa3a117ce2feeb7f12f)
+- [<c20be777b00bcda79557b3430524f3bf42c3c123> Изменение функции square](https://github.com/KulEDmitr/geometric_lib/commit/c20be777b00bcda79557b3430524f3bf42c3c123)
+- [<ef46f50e83fe266c140b5e0637c82fa66a28cba1> Изменение функции triangle](https://github.com/KulEDmitr/geometric_lib/commit/ef46f50e83fe266c140b5e0637c82fa66a28cba1)
