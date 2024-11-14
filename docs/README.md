@@ -1,16 +1,16 @@
 # Описание решения
 
 1.	Клонирование репозитория и создание новой ветки.
-    ![rep_clone](..\images\clone_and_switch.png)
+    ![rep_clone](../images/clone_and_switch.png)
 
 2.	Добавление описаний для функций.
-    ![add_discription_circle](..\images\circle_description.png)
-    ![add_discription_square](..\images\square_description.png)
-    ![add_discription_triangle](..\images\triangle_description.png)
-    ![add_discription_rectangle](..\images\rectangle_description.png)
+    ![add_discription_circle](../images/circle_description.png)
+    ![add_discription_square](../images/square_description.png)
+    ![add_discription_triangle](../images/triangle_description.png)
+    ![add_discription_rectangle](../images/rectangle_description.png)
 
 3.	Commit изменений.
-    ![commit](..\images\commit.png)
+    ![commit](../images/commit.png)
 
 
 # Описание функций
@@ -58,4 +58,8 @@
 
 # История изменений
 
-## ![graph](..\images\graph.png)
+- [Изменение файла README](https://github.com/KulEDmitr/geometric_lib/commit/380393b3f4d19a0063f0c6b33850f54ec164479a)
+- [Изменение функции circle](https://github.com/KulEDmitr/geometric_lib/commit/babd43a20df7316ae941d069f9716a1e516f653a)
+- [Изменение функции rectangle](https://github.com/KulEDmitr/geometric_lib/commit/3003b82e3aed346a2a32efa3a117ce2feeb7f12f)
+- [Изменение функции square](https://github.com/KulEDmitr/geometric_lib/commit/c20be777b00bcda79557b3430524f3bf42c3c123)
+- [Изменение функции triangle](https://github.com/KulEDmitr/geometric_lib/commit/ef46f50e83fe266c140b5e0637c82fa66a28cba1)
