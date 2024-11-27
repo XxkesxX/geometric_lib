@@ -1,5 +1,5 @@
 import unittest
-from geometric_lib import rectangle
+import rectangle
 
 
 class TestRectangle(unittest.TestCase):
@@ -45,3 +45,7 @@ class TestRectangle(unittest.TestCase):
             rectangle.perimeter(1, "qwerty")
         with self.assertRaises(TypeError):
             rectangle.perimeter("qwerty", "qwerty")
+
+
+if __name__ == '__main__':
+    unittest.main()
