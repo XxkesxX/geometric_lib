@@ -46,6 +46,3 @@ class TestRectangle(unittest.TestCase):
         with self.assertRaises(TypeError):
             rectangle.perimeter("qwerty", "qwerty")
 
-
-if __name__ == '__main__':
-    unittest.main()
