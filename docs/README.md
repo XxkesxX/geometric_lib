@@ -72,3 +72,4 @@
 - [3003b82e3aed346a2a32efa3a117ce2feeb7f12f Изменение функции rectangle](https://github.com/KulEDmitr/geometric_lib/commit/3003b82e3aed346a2a32efa3a117ce2feeb7f12f)
 - [c20be777b00bcda79557b3430524f3bf42c3c123 Изменение функции square](https://github.com/KulEDmitr/geometric_lib/commit/c20be777b00bcda79557b3430524f3bf42c3c123)
 - [ef46f50e83fe266c140b5e0637c82fa66a28cba1 Изменение функции triangle](https://github.com/KulEDmitr/geometric_lib/commit/ef46f50e83fe266c140b5e0637c82fa66a28cba1)
+- [23ffa318605682f934e25ef93bd09bbbdb50c0a5 Добавление action](https://github.com/KulEDmitr/geometric_lib/commit/23ffa318605682f934e25ef93bd09bbbdb50c0a5#diff-1db27d93186e46d3b441ece35801b244db8ee144ff1405ca27a163bfe878957fR8)
